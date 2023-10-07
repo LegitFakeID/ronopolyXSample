@@ -1,6 +1,8 @@
 # ronopolyXSample
-A few select sample files from intial framework for RonopolyX, a remake of Ronopoly.
-The "menu" section of the game is on a separate repo, on my profile under ronopolyXMenuSample (play ronopoly for context of what menu is)
+A few select sample files from intial framework of the board section for RonopolyX, a remake of Ronopoly.
+The menu section of the game is on a separate repo, with a lot more samples, at https://github.com/LegitFakeID/ronopolyXMenuSample 
 
 You can play the original Ronopoly here: https://www.roblox.com/games/6875747014/Ronopoly
 The remake has not been released yet
+
+The files have been aggregated into the source folder for visiblity.
